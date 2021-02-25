@@ -3,4 +3,8 @@ addd
 editor in local 
 
 //이런거 추가해도 들어가나 확인해보세요 .
+<<<<<<< HEAD
+loacl
 aasss
+======= 
+>>>>>>> acc40e0 (local change)
